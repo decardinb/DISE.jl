@@ -1,0 +1,13 @@
+name = "DISE"
+uuid = "cd178542-65b6-4597-8760-3968ca4581f8"
+authors = ["Benjamin Decardi-Nelson"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
